@@ -42,7 +42,7 @@ predicted_move = predict_move(board)  # Your AI function
 print("Recommended move:", predicted_move)
 ```
 
-![Chess move predictor AI](Chess move predictor AI.png)
+![Chess move predictor AI](Chess_move_predictor_AI.png)
 
 ---
 
